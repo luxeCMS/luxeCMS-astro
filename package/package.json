@@ -32,7 +32,8 @@
 		"astro": "^4.13.3"
 	},
 	"dependencies": {
-		"astro-integration-kit": "^0.16.0"
+		"astro-integration-kit": "^0.16.0",
+		"picocolors": "^1.0.1"
 	},
 	"devDependencies": {
 		"tsup": "^8.2.4"

@@ -72,7 +72,3 @@ You can now edit files in `package`. Please note that making changes to those fi
 ## Licensing
 
 [MIT Licensed](https://github.com/luxeCMS/luxeCMS-astro/blob/main/LICENSE)
-
-## Acknowledgements
-
-TODO:

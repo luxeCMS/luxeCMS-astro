@@ -9,7 +9,7 @@ const { default: luxeCMS } = await import("@luxecms/luxecms-astro");
 export default defineConfig({
 	integrations: [
 		tailwind(),
-		luxeCMS(),
+		luxeCMS({ verbose: true }),
 		hmrIntegration({
 			directory: createResolver(import.meta.url).resolve("../package/dist"),
 		}),

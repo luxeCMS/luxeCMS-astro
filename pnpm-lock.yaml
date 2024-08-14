@@ -23,6 +23,9 @@ importers:
       astro-integration-kit:
         specifier: ^0.16.0
         version: 0.16.0(astro@4.13.3(@types/node@20.14.15)(typescript@5.5.4))
+      picocolors:
+        specifier: ^1.0.1
+        version: 1.0.1
     devDependencies:
       tsup:
         specifier: ^8.2.4
